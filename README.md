@@ -1,4 +1,3 @@
-# titanic-survival-prediction
 # Titanic Survival Prediction
 
 Predicting which passengers survived the Titanic using machine learning (Python, pandas, scikit-learn).
